@@ -1,0 +1,383 @@
+computer1 play spade4
+computer2 play spade5
+computer3 play diamond6
+computer1 play spade6
+computer2 play diamond9
+computer3 play spade10
+computer1 pass
+computer2 pass
+computer3 play spade12
+computer1 pass
+computer2 pass
+computer3 play heart13
+computer1 pass
+computer2 pass
+computer3 play heart8
+computer1 play spade4
+computer2 play heart8
+computer3 pass
+computer1 pass
+computer2 pass
+computer3 pass
+computer1 play heart3
+computer2 play spade3
+computer3 play club4
+computer1 pass
+computer2 pass
+computer3 pass
+computer2 play club4
+computer3 play spade4
+computer1 play club6
+computer2 play heart7
+computer3 pass
+computer1 pass
+computer2 pass
+computer2 play club3
+computer3 play heart4
+computer1 pass
+computer2 pass
+computer3 pass
+computer3 play spade9
+computer1 pass
+computer2 pass
+computer3 play diamond13
+computer1 pass
+computer2 pass
+computer3 pass
+computer1 play spade5
+computer2 play diamond6
+computer3 play diamond2
+computer2 play club3
+computer3 play club4
+computer1 play club4
+computer2 play diamond4
+computer3 play club5
+computer1 play heart9
+computer2 play heart10
+computer3 pass
+computer1 pass
+computer2 play club12
+computer3 pass
+computer1 pass
+computer2 pass
+computer3 pass
+computer1 play spade7 club7
+computer2 play spade8 heart8
+computer3 play diamond13 club13
+computer1 play spade10 heart10
+computer2 pass
+computer3 play spadeA diamondA
+computer1 play club3
+computer2 play spade4
+computer3 play spade8
+computer1 pass
+computer2 pass
+computer3 play heart10
+computer1 pass
+computer2 pass
+computer3 pass
+computer1 play 
+heart9 spade10 diamond11 club12 spade13 
+
+computer2 play 
+club11 club10 club7 club6 club4 
+
+computer3 play 
+diamond2 diamondA diamond9 diamond5 diamond3 
+
+computer1 pass
+computer2 pass
+computer3 play heartA clubA
+computer1 pass
+computer2 pass
+computer3 play heart11
+computer1 pass
+computer2 pass
+computer3 play spade2 club2
+computer1 pass
+computer2 pass
+computer3 play club13
+computer1 pass
+computer2 pass
+computer3 play club4
+computer1 play heart8
+computer2 pass
+computer3 pass
+computer1 play diamond3
+computer2 play heart5
+computer3 play diamond6
+computer1 play heart10
+computer2 pass
+computer3 pass
+computer1 play diamond5 club5
+computer2 pass
+computer3 play spade7 heart7
+computer1 pass
+computer2 pass
+computer3 play club8
+computer1 play spade13
+computer2 pass
+computer3 pass
+computer1 play 
+club13 club11 club10 club9 club7 
+
+computer2 play 
+diamond2 diamond13 diamond11 diamond7 diamond4 
+
+computer3 pass
+computer1 pass
+computer2 play heart6
+computer3 play heart9
+computer1 pass
+computer2 play club2
+computer3 pass
+computer1 pass
+computer2 play 
+club12 diamond12 spade12 diamond9 spade9 
+
+computer3 pass
+computer1 pass
+computer2 play club3
+computer3 play spade3
+computer1 play club4
+computer2 play club5
+computer3 play heart5
+computer1 play spade7
+computer2 play club10
+computer3 pass
+computer1 play spade12
+computer2 pass
+computer3 pass
+computer1 play heart3 diamond3
+computer2 play heart8 diamond8
+computer3 pass
+computer1 pass
+computer2 play 
+spade2 spade11 spade6 spade5 spade4 
+
+computer3 play 
+diamond13 heart13 spade13 heart10 spade10 
+
+computer1 pass
+computer2 pass
+computer3 play heart4
+computer1 play heartA
+computer2 pass
+computer3 pass
+computer1 play 
+diamond2 diamondA diamond10 diamond9 diamond4 
+
+computer2 pass
+computer3 pass
+computer1 play heart6 club6
+computer1 play heart7 club7
+computer2 play spade2 heart2
+computer3 pass
+computer1 pass
+computer2 play heart4
+computer3 play spade4
+computer1 play spade12
+computer2 pass
+computer3 pass
+computer1 play heart9 club9
+computer2 pass
+computer3 pass
+computer1 play spade13 club13
+computer2 pass
+computer3 pass
+computer1 play 
+club3 heart3 spade3 club4 diamond4 
+
+computer2 play 
+diamond10 heart10 spade10 clubA spadeA 
+
+computer3 pass
+computer1 pass
+computer2 play diamond12
+computer3 pass
+computer1 play diamond2
+computer1 play spade5
+computer2 play club7
+computer3 play spade7
+computer1 play spade12
+computer2 pass
+computer3 pass
+computer1 pass
+computer2 pass
+computer3 pass
+computer1 play spade6 diamond6
+computer2 play spade9 heart9
+computer3 pass
+computer1 play spade2 club2
+computer2 pass
+computer3 pass
+computer1 play heart8
+computer2 play club12
+computer3 pass
+computer1 play club13
+computer2 pass
+computer3 pass
+computer1 play 
+diamondA heartA spadeA club3 heart3 
+
+computer1 play spade4
+computer2 play spade9
+computer3 pass
+computer1 pass
+computer2 play diamond13
+computer3 pass
+computer1 pass
+computer2 pass
+computer3 pass
+computer1 pass
+computer2 play heart7 club7
+computer3 pass
+computer1 pass
+computer2 pass
+computer3 pass
+computer1 pass
+computer2 pass
+computer3 pass
+computer1 play club9
+computer2 pass
+computer3 pass
+computer1 pass
+computer2 pass
+computer3 pass
+computer1 pass
+computer2 pass
+computer3 pass
+computer3 play club3
+computer1 play heart8
+computer2 play heart10
+computer3 pass
+computer1 pass
+computer2 play club12
+computer3 pass
+computer1 pass
+computer2 pass
+computer3 pass
+computer1 pass
+computer2 play heart9 club9
+computer3 pass
+computer1 pass
+computer2 pass
+computer3 pass
+computer1 pass
+computer2 play club8
+computer3 play diamond8
+computer1 pass
+computer2 pass
+computer3 pass
+computer1 pass
+computer2 pass
+computer3 pass
+computer3 play club3
+computer1 play club5
+computer2 play diamond5
+computer3 play club6
+computer1 play club12
+computer2 pass
+computer3 pass
+computer1 play 
+diamond4 heart4 spade4 heart13 spade13 
+
+computer2 play 
+club11 diamond11 spade11 diamond8 heart8 
+
+computer3 pass
+computer1 pass
+computer2 play spade3
+computer3 play club4
+computer1 play spadeA
+computer2 pass
+computer3 pass
+computer1 play 
+club9 diamond9 spade9 club7 heart7 
+
+computer1 play spade4
+computer2 play spade7
+computer3 play heart8
+computer1 pass
+computer2 pass
+computer3 pass
+computer1 pass
+computer2 play spade11 club11
+computer3 pass
+computer1 pass
+computer2 pass
+computer3 pass
+computer1 pass
+computer2 play 
+diamond6 heart6 spade6 diamond5 spade5 
+
+computer3 pass
+computer1 pass
+computer2 play diamond4
+computer3 play club6
+computer1 play spade10
+computer2 pass
+computer3 pass
+computer1 play 
+heart2 heart10 heart7 heart5 heart4 
+
+computer2 pass
+computer3 pass
+computer1 play club2
+computer2 pass
+computer3 pass
+computer1 play diamondA
+computer2 pass
+computer3 pass
+computer1 play spade13
+computer2 pass
+computer3 pass
+computer1 play spade12
+computer2 pass
+computer3 pass
+computer1 play club9
+computer2 play spade9
+computer3 play club10
+computer1 pass
+computer2 play diamond10
+computer3 pass
+computer1 pass
+computer2 play spadeA
+computer3 pass
+computer1 pass
+computer2 play club13
+computer1 play club3
+computer2 play diamond5
+computer3 play spade6
+computer1 play club8
+computer2 play spade12
+computer3 pass
+computer1 pass
+computer2 play diamond7
+computer3 play heart8
+computer1 play spade9
+computer2 play spade13
+computer3 pass
+computer1 pass
+computer2 play clubA
+computer3 pass
+computer1 pass
+computer2 play 
+club10 diamond10 spade10 club6 diamond6 
+
+computer3 pass
+computer1 pass
+computer2 play spade7 heart7
+computer3 play diamond9 club9
+computer1 pass
+computer2 pass
+computer3 play 
+spade11 diamond12 heart13 heartA club2 
+
+computer1 play 
+heart11 heart9 heart5 heart4 heart3 
+
+computer2 pass
+computer3 pass
+computer1 play diamondA
+computer2 play diamond2
